@@ -40,9 +40,9 @@ I'm a **Big Data Engineer**, proficient in technologies across the Data vertical
 
 ### 📜 **Certifications**
 
-- [![Teradata](https://img.shields.io/badge/-Teradata-F37440?logo=teradata&logoColor=white&style=flat-square) **Teradata Vantage Data Engineer**]([https://www.credly.com/badges/604a8c5f-a6ff-4cec-9d28-165ef20df557/public_url])
-- [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) **AWS Cloud Practitioner**](https://url.xyz)
-- [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) **Azure Cloud Fundamentals**](https://url.xyz)
+- [![Teradata](https://img.shields.io/badge/-Teradata-F37440?logo=teradata&logoColor=white&style=flat-square) **Teradata Vantage Data Engineer**](https://www.credly.com/badges/604a8c5f-a6ff-4cec-9d28-165ef20df557/public_url)
+- [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) **AWS Cloud Practitioner**](https://www.credly.com/badges/47470af3-0ea1-4d7c-ab8b-12b3796c2d3e/public_url)
+- [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) **Azure Cloud Fundamentals**](https://www.credly.com/badges/e923f051-09e6-42a0-9f88-9c39b356c615/public_url)
 
 ---
 
