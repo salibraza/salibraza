@@ -48,8 +48,8 @@ I'm a **Big Data Engineer**, proficient in technologies across the Data vertical
 
 ### 📫 **Get in touch**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/salib-raza-abdi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:salibraza25@gmail.com)
 
 ---
 
