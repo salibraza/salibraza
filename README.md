@@ -13,6 +13,12 @@ I'm a **Big Data Engineer**, proficient in technologies across the Data vertical
 
 ⌚ **Job Scheduling and Automation**
 
+👨‍💻 **Programming and Development**
+<br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+
+
 ---
 
 ### 🛠️ **Technologies & Tools**
