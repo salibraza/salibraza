@@ -18,6 +18,7 @@ I'm a **Big Data Engineer**, proficient in technologies across the Data vertical
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3776AB?logo=sqlite&logoColor=white&style=flat-square) 
+![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 
 
 ---
@@ -25,7 +26,6 @@ I'm a **Big Data Engineer**, proficient in technologies across the Data vertical
 ### 🛠️ **Technologies & Tools**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 ![Teradata](https://img.shields.io/badge/-Teradata-F37440?logo=teradata&logoColor=white&style=flat-square)
 ![Talend Open Studio](https://img.shields.io/badge/-Talend-FF6D00?logo=talend&logoColor=white&style=flat-square)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white&style=flat-square)
