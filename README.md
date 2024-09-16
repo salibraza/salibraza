@@ -36,9 +36,10 @@ I'm a **Big Data Engineer**, proficient in technologies across the Data vertical
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat-square)
-
+<br>
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
 ---
