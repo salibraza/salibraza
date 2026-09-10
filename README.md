@@ -1,6 +1,6 @@
 ## Hi there! 👋 Salib here
 
-I'm a **Big Data Engineer**, proficient in technologies across the Data vertical, and I know how to derive value from Data.
+I'm a **Big Data Engineer**, proficient in technologies across the Data vertical, and practices to derive value from Data.
 
 ---
 ### 🚀 **My Expertise**
